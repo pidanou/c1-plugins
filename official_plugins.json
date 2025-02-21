@@ -4,5 +4,5 @@
   "uri": "https://github.com/pidanou/c1-plugins",
   "install_command": "go build -o s3 s3/s3.go && chmod +x s3/s3",
   "update_command": "",
-  "command": "./s3"
+  "command": "./s3/s3"
 }
